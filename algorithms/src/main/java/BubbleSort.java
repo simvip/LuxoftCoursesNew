@@ -1,5 +1,5 @@
 public class BubbleSort {
-     public int[] sort(int[] array) {
+    public int[] sort(int[] array) {
         boolean doAgain = true;
         int aLenght = array.length - 1;
         int temp;

@@ -6,8 +6,10 @@
 
     <groupId>ua.sliusar.ivan</groupId>
     <artifactId>LuxoftCourses</artifactId>
-    <name>junior</name>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <name>LuxoftCourses</name>
+
 
     <modules>
         <module>algorithms</module>
@@ -34,5 +36,5 @@
         </dependency>
 
     </dependencies>
-    
+
 </project>
